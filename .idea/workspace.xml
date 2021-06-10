@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f30b46a-15bc-443b-9d32-64f7996cda7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/AT_KursSelenium_CL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/out/formatter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/out/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/out/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/out/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/out/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/Cucumber/Features/google-text-search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/Cucumber/Features/qloapps-create-account.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/Cucumber/Features/user-address-creation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/GoogleSearchBdd/GoogleSearchSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/ZadZaliczeniowe1/NewAddressCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/ZadZaliczeniowe1/NewAddressCreationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/ZadZaliczeniowe2/BuyProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad1/BingSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad1/MyStoreSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad1/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad1/ZadDodMyStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad2/KatalonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad2/KatalonTestZad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad2/KatalonTestZad2Workcopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/przyklad2/KatalonTestZad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/src/test/java/qloappsBdd/QloAppsRegistrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/classes/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/GoogleSearchBdd/GoogleSearchSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/ZadZaliczeniowe1/NewAddressCreation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/ZadZaliczeniowe1/NewAddressCreationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/ZadZaliczeniowe2/BuyProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad1/BingSearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad1/MyStoreSearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad1/SearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad1/ZadDodMyStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad2/KatalonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad2/KatalonTestZad2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/przyklad2/KatalonTestZad2Workcopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kurs_Selenium_CL/target/test-classes/qloappsBdd/QloAppsRegistrationTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="6f30b46a-15bc-443b-9d32-64f7996cda7a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,9 +19,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1riR63dzd6kQDlX9pwj0tFKxtju" />
   <component name="ProjectViewState">
@@ -207,6 +159,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/ZadZaliczeniowe2/BuyProduct.java</url>
           <line>22</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ZadZaliczeniowe1/NewAddressCreationTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ZadZaliczeniowe2/BuyProduct.java</url>
